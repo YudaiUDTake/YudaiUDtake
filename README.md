@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 
 ![YudaiUDTake's github stats](https://github-readme-stats.vercel.app/api?username=yudaiUDTake)
+[![Top used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YudaiUDTake&layout=compact&theme=tokyonight)](https://github.com/YudaiUDTake/)
