@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![YudaiUDTake's github stats](https://github-readme-stats.vercel.app/api?username=YudaiUDTake&hide=contribs&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/YudaiUDTake/)[![Top used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YudaiUDTake&layout=compact&theme=tokyonight)](https://github.com/YudaiUDTake/)
+[![YudaiUDTake's github stats](https://github-readme-stats.vercel.app/api?username=YudaiUDTake&hide=contribs&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/YudaiUDTake/)   [![Top used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YudaiUDTake&layout=compact&theme=tokyonight)](https://github.com/YudaiUDTake/)
